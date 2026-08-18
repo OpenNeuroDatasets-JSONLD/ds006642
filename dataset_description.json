@@ -8,18 +8,18 @@
         "Jeremy I Skipper"
     ],
     "BIDSVersion": "1.8.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds006642.v1.0.3",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006642.v1.1.1",
     "Funding": [
         "LIDo BBSRC funding (BB/T008709/1)",
         "JIS is supported by the Wellcome Leap"
     ],
-    "HowToAcknowledge": "Please cite the following preprint:\nhttps://doi.org/10.1101/2025.09.25.678556",
+    "HowToAcknowledge": "Levchenko, E., Chow-Wing-Bom, H., Dick, F., Cooper, G., Tierney, A. & Skipper, J. I. A neuroimaging dataset combining movie-watching, eye-tracking, sensorimotor mapping, and cognitive tasks. *Scientific Data* 13, 1184 (2026). https://doi.org/10.1038/s41597-026-07676-4",
     "License": "CC0",
     "Name": "Naturalistic Neuroimaging Database 3T+",
     "ReferencesAndLinks": [
         "A neuroimaging database combining movie-watching, eye-tracking, sensorimotor mapping, and cognitive tasks (NNDb3T+)",
         "https://github.com/levchenkoegor/movieproject2",
-        "https://www.biorxiv.org/content/10.1101/2025.09.25.678556v1"
+        "https://doi.org/10.1038/s41597-026-07676-4"
     ],
     "EthicsApprovals": [
         "The study was approved by the ethics committee at the University College London (Reference number: fMRI/2023/003)"
